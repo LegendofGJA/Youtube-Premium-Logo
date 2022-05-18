@@ -2,7 +2,7 @@
 // @name         Youtube Premium Logo
 // @namespace     http://tampermonkey.net/
 // @description	  Logo Changer For Youtube To Premium Logo
-// @author       LegendofGJA / LGJA
+// @author       LGJA / LegendofGJA
 // @match        https://*.youtube.com/*
 // @match        https://*.youtube.com/watch?v=*
 // @match        https://www.youtube.com/embed/*
