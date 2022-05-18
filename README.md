@@ -14,4 +14,5 @@ How to use:
 
 Picture:
 
-![Proof](https://user-images.githubusercontent.com/54719695/169171904-f2de75a8-e267-4b30-9522-1929eb9f4fa1.png)
+
+![Proof2](https://user-images.githubusercontent.com/54719695/169172028-89cfa848-91f5-44de-a3d1-81fe5b883892.png)
