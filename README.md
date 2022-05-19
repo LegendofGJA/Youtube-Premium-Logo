@@ -11,6 +11,9 @@ How to use:
 
 
 
+Or https://greasyfork.org/en/scripts/445197-youtube-premium-logo
+
+
 
 Picture:
 
